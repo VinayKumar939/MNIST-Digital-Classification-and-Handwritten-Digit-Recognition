@@ -15,6 +15,19 @@ This project combines the MNIST dataset with a deep learning model to create an 
 - **Pre-trained Model**: Includes a trained CNN model ready for use
 - **Modern UI**: Clean, responsive interface with Bootstrap styling
 
+## 🖼️ Sample Output
+
+Below are sample outputs from the application:
+
+**Prediction for digit 3:**
+
+![Prediction for digit 3](images/Number3.png)
+
+**Prediction for digit 6:**
+
+![Prediction for digit 6](images/Number6.png)
+
+
 ## 🏗️ Project Structure
 
 ```
