@@ -1,10 +1,10 @@
 # MNIST Digital Classification and Handwritten Digit Recognition
 
-A web-based application for real-time handwritten digit recognition using a Convolutional Neural Network (CNN) trained on the MNIST dataset. This project demonstrates the power of machine learning in digit recognition with an interactive web interface.
+A web-based application for real-time handwritten digit recognition using a Convolutional Neural Network (CNN) and Support Vector Machine (SVM) trained on the MNIST dataset. This project demonstrates the power of machine learning in digit recognition with an interactive web interface.
 
 ## 🎯 Project Overview
 
-This project combines the MNIST dataset with a deep learning model to create an interactive web application where users can draw digits on a canvas and get real-time predictions. The model is trained using TensorFlow/Keras and deployed using TensorFlow.js for browser-based inference.
+This project combines the MNIST dataset with a deep learning model to create an interactive web application where users can draw digits on a canvas and get real-time predictions.
 
 ## ✨ Features
 
@@ -143,7 +143,7 @@ Edit `MNIST.py` to adjust:
 
 ## 📊 Performance
 
-- **Training Accuracy**: ~99% on MNIST test set
+- **Training Accuracy**: ~95% on MNIST test set
 - **Inference Speed**: Real-time predictions
 - **Model Size**: ~16MB (compressed)
 - **Browser Memory**: Low footprint
