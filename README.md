@@ -2,6 +2,10 @@
 
 A web-based application for real-time handwritten digit recognition using a Convolutional Neural Network (CNN) and Support Vector Machine (SVM) trained on the MNIST dataset. This project demonstrates the power of machine learning in digit recognition with an interactive web interface.
 
+## 🌐 Live Demo
+
+**Try the application online:** [MNIST Digital Classification and Handwritten Digit Recognition](https://vinaykumar939.github.io/MNIST-Digital-Classification-and-Handwritten-Digit-Recognition/)
+
 ## 🎯 Project Overview
 
 This project combines the MNIST dataset with a deep learning model to create an interactive web application where users can draw digits on a canvas and get real-time predictions.
