@@ -4,7 +4,7 @@ A web-based application for real-time handwritten digit recognition using a Conv
 
 ## 🌐 Live Demo
 
-**Try the application online:** [MNIST Digital Classification and Handwritten Digit Recognition](https://vinaykumar939.github.io/MNIST-Digital-Classification-and-Handwritten-Digit-Recognition/)
+**Try the application online:** [MNIST Digital Classification and Handwritten Digit Recognition](https://vinays-digit-recognition.netlify.app)
 
 ## 🎯 Project Overview
 
